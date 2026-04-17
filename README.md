@@ -28,8 +28,7 @@ This project demonstrates DOM manipulation, event handling, and basic game logic
 
 1. Clone the repository:
    
-   git clone https://github.com/your-username/rock-paper-scissor.git
-
+   git clone https://github.com/SainiCoder41/rock_paper_scissors_game
 2. Open the project folder:
 
    cd rock-paper-scissor
